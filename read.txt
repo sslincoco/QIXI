@@ -1,8 +1,5 @@
-程序说明
-push to web
-add one line
-<<<<<<< HEAD
-add three lines.
-=======
-add two lines(dev)
->>>>>>> dev
+
+  my personal project
+  
+  
+
